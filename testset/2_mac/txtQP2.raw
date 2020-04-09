@@ -1,0 +1,17 @@
+startDocument()
+  startPage(svg:height: 843.8898pt, svg:width: 597.2756pt)
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none)
+    drawPath (draw:z-index: 100, svg:d: ((librevenge:path-action: M, svg:x: 36.0000pt, svg:y: 36.0000pt), (librevenge:path-action: L, svg:x: 561.2756pt, svg:y: 36.0000pt), (librevenge:path-action: L, svg:x: 561.2756pt, svg:y: 807.8898pt), (librevenge:path-action: L, svg:x: 36.0000pt, svg:y: 807.8898pt), (librevenge:path-action: Z)))
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.5000pt)
+    drawPath (draw:z-index: 300, svg:d: ((librevenge:path-action: M, svg:x: 184.0000pt, svg:y: 167.0000pt), (librevenge:path-action: L, svg:x: 257.0000pt, svg:y: 96.0000pt)))
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none)
+    drawPath (draw:z-index: 400, svg:d: ((librevenge:path-action: M, svg:x: 77.0000pt, svg:y: 66.0000pt), (librevenge:path-action: L, svg:x: 162.0000pt, svg:y: 66.0000pt), (librevenge:path-action: L, svg:x: 162.0000pt, svg:y: 135.0000pt), (librevenge:path-action: L, svg:x: 77.0000pt, svg:y: 135.0000pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 401, fo:padding-bottom: 1.0000pt, fo:padding-left: 1.0000pt, fo:padding-right: 1.0000pt, fo:padding-top: 1.0000pt, svg:height: 69.0000pt, svg:width: 85.0000pt, svg:x: 77.0000pt, svg:y: 66.0000pt)
+      openParagraph (fo:hyphenate: false, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (mon petit tetxtee)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument

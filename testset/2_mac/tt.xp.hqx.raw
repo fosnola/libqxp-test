@@ -1,0 +1,6 @@
+startDocument()
+  startPage(svg:height: 843.8898pt, svg:width: 597.2756pt)
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none)
+    drawPath (draw:z-index: 200, svg:d: ((librevenge:path-action: M, svg:x: 36.0000pt, svg:y: 36.0000pt), (librevenge:path-action: L, svg:x: 561.2756pt, svg:y: 36.0000pt), (librevenge:path-action: L, svg:x: 561.2756pt, svg:y: 807.8898pt), (librevenge:path-action: L, svg:x: 36.0000pt, svg:y: 807.8898pt), (librevenge:path-action: Z)))
+  endPage
+endDocument

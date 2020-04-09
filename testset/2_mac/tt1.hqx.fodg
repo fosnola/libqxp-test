@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21660</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">28010</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Helvetica" svg:font-family="Helvetica"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles>
+    <draw:marker draw:name="Marker_0" svg:d="m9 0 l-9 25 l6 -1.5 l6 0 l6 1.5 z" svg:viewBox="0 0 18 25"/>
+  </office:styles>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties fo:page-height="794.0000pt" fo:page-width="614.0000pt" style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span1">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="bold" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="bold" style:font-weight-complex="bold" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span10">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-position="33.333333% 100.000000%" style:text-scale="100.0000%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span11">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-position="-33.333333% 100.000000%" style:text-scale="100.0000%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span12">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-position="50.000000% 50.000000%" style:text-scale="50.0000%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span13">
+      <style:text-properties fo:color="#ff0000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span14">
+      <style:text-properties fo:color="#e6e6e6" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span15">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-scale="89.9902%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span16">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-scale="110.0098%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span17">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-position="-41.665649% 100.000000%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span18">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-position="8.334351% 100.000000%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span19">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-position="75.000000% 100.000000%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span2">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="italic" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span20">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-position="-75.000000% 100.000000%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span21">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-position="-8.334351% 100.000000%"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span3">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-underline-color="font-color" style:text-underline-mode="continuous" style:text-underline-style="solid" style:text-underline-type="single"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span4">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false" style:text-underline-color="font-color" style:text-underline-mode="skip-white-space" style:text-underline-style="solid" style:text-underline-type="single"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span5">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-line-through-color="font-color" style:text-line-through-mode="continuous" style:text-line-through-style="solid" style:text-line-through-type="single" style:text-line-through-width="1.0000pt" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span6">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="true"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span7">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" fo:text-shadow="1pt 1pt" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span8">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" fo:text-transform="capitalize" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span9">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="small-caps" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="false" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.4000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="left" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S1" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="false" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.4000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="center" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S2" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="false" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.4000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="end" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S3" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="false" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.4000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="justify" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S4" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="false" fo:hyphenation-ladder-count="no-limit" fo:line-height="2.0000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="justify" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S5" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="false" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.0000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="justify" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S6" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="false" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.4000pt" fo:margin-bottom="39.6850pt" fo:margin-left="65.0000pt" fo:margin-right="34.0157pt" fo:margin-top="28.3465pt" fo:text-align="justify" fo:text-align-last="start" fo:text-indent="36.8504pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:shadow="hidden" draw:stroke="none"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="top" fo:min-width="1.0000in" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:marker-end="Marker_0" draw:marker-end-width="4.5000pt" draw:marker-start="Marker_0" draw:marker-start-width="4.5000pt" draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#000000" svg:stroke-linecap="butt" svg:stroke-width="1.5000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="standard">
+      <style:graphic-properties draw:marker-start="Marker_0" draw:marker-start-width="4.5000pt" draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#000000" svg:stroke-linecap="butt" svg:stroke-width="1.5000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_4" style:parent-style-name="standard">
+      <style:graphic-properties draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#000000" svg:stroke-linecap="butt" svg:stroke-width="1.5000pt"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+    <style:master-page draw:style-name="DP1" style:name="PM1" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="200" svg:d="M0 0L19120 0L19120 25470L0 25470 Z" svg:height="10.0278in" svg:viewBox="0 0 19120 25470" svg:width="7.5278in" svg:x="0.5000in" svg:y="0.5000in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt" svg:height="722.0000pt" svg:width="542.0000pt" svg:x="0.5000in" svg:y="0.5000in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">a</text:span>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">b</text:span>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span1">bold </text:span>
+              <text:span text:style-name="Span2">italic <text:s/></text:span>
+              <text:span text:style-name="Span3">underline </text:span>
+              <text:span text:style-name="Span4">word underline </text:span>
+              <text:span text:style-name="Span5">strike </text:span>
+              <text:span text:style-name="Span6">relief </text:span>
+              <text:span text:style-name="Span7">ombre </text:span>
+              <text:span text:style-name="Span8">allmaj </text:span>
+              <text:span text:style-name="Span9">smallmaj </text:span>
+              <text:span text:style-name="Span10">exp </text:span>
+              <text:span text:style-name="Span11">sub</text:span>
+              <text:span text:style-name="Span12">super</text:span>
+              <text:span text:style-name="Span0"/>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span13">red</text:span>
+              <text:span text:style-name="Span0"> </text:span>
+              <text:span text:style-name="Span14">teinte10% </text:span>
+              <text:span text:style-name="Span15">aazazz </text:span>
+              <text:span text:style-name="Span16">azaz</text:span>
+              <text:span text:style-name="Span16">a</text:span>
+              <text:span text:style-name="Span0">aaaabb</text:span>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">b </text:span>
+              <text:span text:style-name="Span17">base-10</text:span>
+              <text:span text:style-name="Span17"> </text:span>
+              <text:span text:style-name="Span17">aaaaaa</text:span>
+              <text:span text:style-name="Span0">a</text:span>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0"/>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0"/>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span18">2 ptr </text:span>
+              <text:span text:style-name="Span19">18 pt </text:span>
+              <text:span text:style-name="Span20">-18pt </text:span>
+              <text:span text:style-name="Span21">-2pt</text:span>
+              <text:span text:style-name="Span0"/>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0"/>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0"/>
+            </text:p>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span0">center</text:span>
+            </text:p>
+            <text:p text:style-name="S2">
+              <text:span text:style-name="Span0">right</text:span>
+            </text:p>
+            <text:p text:style-name="S3">
+              <text:span text:style-name="Span0">justify</text:span>
+            </text:p>
+            <text:p text:style-name="S4">
+              <text:span text:style-name="Span0">2pt</text:span>
+            </text:p>
+            <text:p text:style-name="S5">
+              <text:span text:style-name="Span0">14pt</text:span>
+            </text:p>
+            <text:p text:style-name="S6">
+              <text:span text:style-name="Span0">para qsdddddddddddddd para qsdddddddddddddd para qsdddddddddddddd </text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+      </draw:page>
+      <draw:page draw:master-page-name="PM1" draw:name="page2" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="100" svg:d="M0 0L19120 0L19120 25470L0 25470 Z" svg:height="10.0278in" svg:viewBox="0 0 19120 25470" svg:width="7.5278in" svg:x="0.5000in" svg:y="0.5000in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="300" svg:d="M0 0L1728 0L1728 1693L0 1693 Z" svg:height="0.6667in" svg:viewBox="0 0 1728 1693" svg:width="0.6806in" svg:x="4.0972in" svg:y="9.0000in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="400" svg:d="M0 0L1305 0L1305 1340L0 1340 Z" svg:height="0.5278in" svg:viewBox="0 0 1305 1340" svg:width="0.5139in" svg:x="3.1667in" svg:y="8.9861in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="500" svg:d="M0 0L1234 0L1234 1199L0 1199 Z" svg:height="0.4722in" svg:viewBox="0 0 1234 1199" svg:width="0.4861in" svg:x="2.2222in" svg:y="9.2222in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="600" svg:d="M0 0L2081 0L2081 1234L0 1234 Z" svg:height="0.4861in" svg:viewBox="0 0 2081 1234" svg:width="0.8194in" svg:x="1.0417in" svg:y="9.2500in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="700" svg:d="M0 776L1093 0" svg:height="0.3056in" svg:viewBox="0 0 1093 776" svg:width="0.4306in" svg:x="2.9861in" svg:y="8.0833in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="800" svg:d="M0 0L1834 1128" svg:height="0.4444in" svg:viewBox="0 0 1834 1128" svg:width="0.7222in" svg:x="2.3333in" svg:y="8.2083in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_3" draw:z-index="900" svg:d="M0 0L1763 1199" svg:height="0.4722in" svg:viewBox="0 0 1763 1199" svg:width="0.6944in" svg:x="1.8333in" svg:y="8.3889in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_3" draw:z-index="1000" svg:d="M0 0L1693 1622" svg:height="0.6389in" svg:viewBox="0 0 1693 1622" svg:width="0.6667in" svg:x="1.2361in" svg:y="8.4306in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="1100" svg:d="M0 0L1940 0" svg:height="0.0000in" svg:viewBox="0 0 1940 0" svg:width="0.7639in" svg:x="1.6389in" svg:y="7.9444in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="1200" svg:d="M0 0L1975 0" svg:height="0.0000in" svg:viewBox="0 0 1975 0" svg:width="0.7778in" svg:x="1.6389in" svg:y="7.5556in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="1300" svg:d="M0 0L0 1446" svg:height="0.5694in" svg:viewBox="0 0 0 1446" svg:width="0.0000in" svg:x="1.2500in" svg:y="7.5000in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="1400" svg:d="M0 0L2116 35" svg:height="0.0139in" svg:viewBox="0 0 2116 35" svg:width="0.8333in" svg:x="1.0000in" svg:y="7.2222in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="1500" svg:d="M0 0L2963 952" svg:height="0.3750in" svg:viewBox="0 0 2963 952" svg:width="1.1667in" svg:x="1.3750in" svg:y="6.6111in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="1600" svg:d="M0 423L4762 0" svg:height="0.1667in" svg:viewBox="0 0 4762 423" svg:width="1.8750in" svg:x="0.9722in" svg:y="6.0417in"/>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>

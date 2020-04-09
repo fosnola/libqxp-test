@@ -1,7 +1,7 @@
 package settings;
 
 @versionList = (
-    "3.3_mac", "3.3_win", "4.0_mac", "4.0_win"
+    "1_mac", "2_mac", "3.3_mac", "3.3_win", "4.0_mac", "4.0_win"
 );
 %tools = (
     'raw' => 'qxp2raw',

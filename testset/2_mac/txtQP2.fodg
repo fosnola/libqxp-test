@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21070</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">29770</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Helvetica" svg:font-family="Helvetica"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties fo:page-height="843.8898pt" fo:page-width="597.2756pt" style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="false" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.4000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="left" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:shadow="hidden" draw:stroke="none"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#000000" svg:stroke-linecap="butt" svg:stroke-width="1.5000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="top" fo:min-width="1.0000in" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="100" svg:d="M0 0L18530 0L18530 27230L0 27230 Z" svg:height="10.7207in" svg:viewBox="0 0 18530 27230" svg:width="7.2955in" svg:x="0.5000in" svg:y="0.5000in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" draw:z-index="300" svg:d="M0 2504L2575 0" svg:height="0.9861in" svg:viewBox="0 0 2575 2504" svg:width="1.0139in" svg:x="2.5556in" svg:y="1.3333in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="400" svg:d="M0 0L2998 0L2998 2434L0 2434 Z" svg:height="0.9583in" svg:viewBox="0 0 2998 2434" svg:width="1.1806in" svg:x="1.0694in" svg:y="0.9167in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_2" draw:textarea-vertical-align="top" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt" svg:height="69.0000pt" svg:width="85.0000pt" svg:x="1.0694in" svg:y="0.9167in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">mon petit tetxtee</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>

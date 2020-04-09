@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
   <office:settings>
     <config:config-item-set config:name="ooo:view-settings">
       <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -32,19 +32,19 @@
       <style:graphic-properties draw:fill="none" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#000000" svg:stroke-linecap="butt" svg:stroke-width="1.0000pt"/>
     </style:style>
     <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
-      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="top" fo:min-width="1.0000in" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt"/>
+      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="top" fo:min-width="1.0000in" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt"/>
     </style:style>
     <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
       <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" style:wrap="biggest" svg:stroke-color="#000000" svg:stroke-linecap="butt" svg:stroke-width="1.0000pt"/>
     </style:style>
     <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="standard">
-      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="bottom" fo:min-width="1.0000in" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt"/>
+      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="bottom" fo:min-width="1.0000in" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt"/>
     </style:style>
     <style:style style:family="graphic" style:name="gr_4" style:parent-style-name="standard">
-      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="justify" fo:min-width="1.0000in" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt"/>
+      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="justify" fo:min-width="1.0000in" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt"/>
     </style:style>
     <style:style style:family="graphic" style:name="gr_5" style:parent-style-name="standard">
-      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="middle" fo:min-width="1.0000in" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt"/>
+      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="middle" fo:min-width="1.0000in" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt"/>
     </style:style>
     <style:style style:family="graphic" style:name="gr_6" style:parent-style-name="standard">
       <style:graphic-properties draw:fill="solid" draw:fill-color="#b3e2ee" draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" style:wrap="biggest" svg:stroke-color="#00ff00" svg:stroke-linecap="butt" svg:stroke-width="1.0000pt"/>
@@ -60,7 +60,7 @@
     <office:drawing>
       <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
         <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="600" svg:d="M3288 860C3641 789 4509 675 4876 825S5974 996 5934 1283S6938 -2114 6569 1848S7028 2271 7028 2271S8416 3789 8263 4191S7315 4534 7028 4591S2452 4357 537 2765S2371 1495 3288 860 Z" svg:height="1.8103in" svg:viewBox="0 0 8274 4598" svg:width="3.2579in" svg:x="0.3901in" svg:y="7.2582in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="122.4277pt" svg:width="217.4247pt" svg:x="0.6155in" svg:y="7.4140in">
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt" svg:height="122.4277pt" svg:width="217.4247pt" svg:x="0.6155in" svg:y="7.4140in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">qwerty123</text:span>
@@ -68,7 +68,7 @@
           </draw:text-box>
         </draw:frame>
         <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="500" svg:d="M0 0L2504 0L2504 2469L0 2469 Z" svg:height="0.9722in" svg:viewBox="0 0 2504 2469" svg:width="0.9861in" svg:x="2.1425in" svg:y="4.1026in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_3" draw:textarea-vertical-align="bottom" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="69.0000pt" svg:width="70.0000pt" svg:x="2.1494in" svg:y="4.1096in">
+        <draw:frame draw:layer="layout" draw:style-name="gr_3" draw:textarea-vertical-align="bottom" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt" svg:height="69.0000pt" svg:width="70.0000pt" svg:x="2.1494in" svg:y="4.1096in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">bottom</text:span>
@@ -79,7 +79,7 @@
           </draw:text-box>
         </draw:frame>
         <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="400" svg:d="M0 0L3153 0L3153 4021L0 4021 Z" svg:height="1.5833in" svg:viewBox="0 0 3153 4021" svg:width="1.2414in" svg:x="1.5902in" svg:y="5.5887in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_4" draw:textarea-vertical-align="justify" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="113.0000pt" svg:width="88.3779pt" svg:x="1.5972in" svg:y="5.5957in">
+        <draw:frame draw:layer="layout" draw:style-name="gr_4" draw:textarea-vertical-align="justify" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt" svg:height="113.0000pt" svg:width="88.3779pt" svg:x="1.5972in" svg:y="5.5957in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">justified</text:span>
@@ -93,7 +93,7 @@
           </draw:text-box>
         </draw:frame>
         <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="300" svg:d="M0 0L2165 0L2165 2469L0 2469 Z" svg:height="0.9722in" svg:viewBox="0 0 2165 2469" svg:width="0.8525in" svg:x="0.7013in" svg:y="4.1026in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_5" draw:textarea-vertical-align="middle" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="69.0000pt" svg:width="60.3779pt" svg:x="0.7083in" svg:y="4.1096in">
+        <draw:frame draw:layer="layout" draw:style-name="gr_5" draw:textarea-vertical-align="middle" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt" svg:height="69.0000pt" svg:width="60.3779pt" svg:x="0.7083in" svg:y="4.1096in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">center</text:span>
@@ -104,7 +104,7 @@
           </draw:text-box>
         </draw:frame>
         <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="200" svg:d="M0 0L10896 0L10896 17674L0 17674 Z" svg:height="6.9583in" svg:viewBox="0 0 10896 17674" svg:width="4.2900in" svg:x="3.5641in" svg:y="0.6215in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="500.0000pt" svg:width="307.8820pt" svg:x="3.5710in" svg:y="0.6285in">
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt" svg:height="500.0000pt" svg:width="307.8820pt" svg:x="3.5710in" svg:y="0.6285in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. Curabitur augue erat, lobortis quis egestas vitae, pretium vel mauris. Phasellus in porttitor lectus. Pellentesque non eros cursus, varius enim at, sodales mi. Mauris ultrices risus sed aliquet dictum. Praesent gravida tempor dignissim. Proin vehicula libero est, sed gravida magna consectetur a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce urna erat, tempor et malesuada vel, pulvinar vitae risus.</text:span>
@@ -124,7 +124,7 @@
           </draw:text-box>
         </draw:frame>
         <draw:path draw:layer="layout" draw:style-name="gr_6" draw:z-index="100" svg:d="M0 2651L3786 0L5961 3106L2174 5757 Z" svg:height="2.2667in" svg:viewBox="0 0 5961 5757" svg:width="2.3470in" svg:x="1.0129in" svg:y="1.3899in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" draw:transform="rotate (0.6109) translate(1.0226in, 2.4354in)" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="106.4821pt" svg:width="130.0313pt">
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" draw:transform="rotate (0.6109) translate(1.0226in, 2.4354in)" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt" svg:height="106.4821pt" svg:width="130.0313pt">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">qwerty123</text:span>
@@ -132,7 +132,7 @@
           </draw:text-box>
         </draw:frame>
         <draw:path draw:layer="layout" draw:style-name="gr_7" draw:z-index="0" svg:d="M0 0L5961 0L5961 1164L0 1164 Z" svg:height="0.4583in" svg:viewBox="0 0 5961 1164" svg:width="2.3472in" svg:x="1.0138in" svg:y="0.6373in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="33.0000pt" svg:width="169.0000pt" svg:x="1.0138in" svg:y="0.6373in">
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="1.0000pt" fo:padding-left="1.0000pt" fo:padding-right="1.0000pt" fo:padding-top="1.0000pt" svg:height="33.0000pt" svg:width="169.0000pt" svg:x="1.0138in" svg:y="0.6373in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">qwerty123</text:span>

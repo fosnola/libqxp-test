@@ -1,0 +1,21 @@
+startDocument()
+  startPage(svg:height: 794.0000pt, svg:width: 614.0000pt)
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none)
+    drawPath (draw:z-index: 100, svg:d: ((librevenge:path-action: M, svg:x: 36.0000pt, svg:y: 36.0000pt), (librevenge:path-action: L, svg:x: 578.0000pt, svg:y: 36.0000pt), (librevenge:path-action: L, svg:x: 578.0000pt, svg:y: 758.0000pt), (librevenge:path-action: L, svg:x: 36.0000pt, svg:y: 758.0000pt), (librevenge:path-action: Z)))
+    setStyle(draw:marker-end-path: m9 0 l-9 25 l6 -1.5 l6 0 l6 1.5 z, draw:marker-end-viewbox: 0 0 18 25, draw:marker-end-width: 4.5000pt, draw:marker-start-path: m9 0 l-9 25 l6 -1.5 l6 0 l6 1.5 z, draw:marker-start-viewbox: 0 0 18 25, draw:marker-start-width: 4.5000pt, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.5000pt)
+    drawPath (draw:z-index: 300, svg:d: ((librevenge:path-action: M, svg:x: 83.0000pt, svg:y: 217.0000pt), (librevenge:path-action: L, svg:x: 316.0000pt, svg:y: 121.0000pt)))
+    setStyle(draw:marker-end-path: m9 0 l-9 25 l6 -1.5 l6 0 l6 1.5 z, draw:marker-end-viewbox: 0 0 18 25, draw:marker-end-width: 4.5000pt, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.5000pt)
+    drawPath (draw:z-index: 400, svg:d: ((librevenge:path-action: M, svg:x: 46.0000pt, svg:y: 87.0000pt), (librevenge:path-action: L, svg:x: 255.0000pt, svg:y: 253.0000pt)))
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.5000pt)
+    drawPath (draw:z-index: 500, svg:d: ((librevenge:path-action: M, svg:x: 248.0000pt, svg:y: 201.0000pt), (librevenge:path-action: L, svg:x: 342.0000pt, svg:y: 129.0000pt)))
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none)
+    drawPath (draw:z-index: 600, svg:d: ((librevenge:path-action: M, svg:x: 75.0000pt, svg:y: 52.0000pt), (librevenge:path-action: L, svg:x: 225.0000pt, svg:y: 52.0000pt), (librevenge:path-action: L, svg:x: 225.0000pt, svg:y: 175.0000pt), (librevenge:path-action: L, svg:x: 75.0000pt, svg:y: 175.0000pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 601, fo:padding-bottom: 1.0000pt, fo:padding-left: 1.0000pt, fo:padding-right: 1.0000pt, fo:padding-top: 1.0000pt, svg:height: 123.0000pt, svg:width: 150.0000pt, svg:x: 75.0000pt, svg:y: 52.0000pt)
+      openParagraph (fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, style:font-name: Helvetica, style:text-outline: false)
+          insertText (qeqe)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument
