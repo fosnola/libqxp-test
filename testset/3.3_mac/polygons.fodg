@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">23000</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">20000</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties fo:page-height="566.9291pt" fo:page-width="651.9685pt" style:footnote-max-height="0.0000in" style:print-orientation="landscape" style:writing-mode="lr-tb">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#00ff00" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffff00" draw:shadow="hidden" draw:stroke="solid" style:wrap="biggest" svg:stroke-color="#ff6666" svg:stroke-width="2.0000pt"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="200" svg:d="M1567 7902L0 3818L3352 0L4498 6777L1567 7902 Z" svg:height="3.1112in" svg:viewBox="0 0 4498 7902" svg:width="1.7712in" svg:x="4.9199in" svg:y="3.9894in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="100" svg:d="M0 0L4374 0L6738 4498L0 3139L0 0 Z" svg:height="1.7710in" svg:viewBox="0 0 6738 4498" svg:width="2.6528in" svg:x="1.2981in" svg:y="3.9122in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" draw:z-index="0" svg:d="M8537 3333L6376 3594L8328 4363L6170 4090L7722 5293L5777 4512L6777 6030L5237 4818L5587 6504L4602 4980L4268 6667L3934 4980L2949 6504L3299 4819L1759 6031L2759 4512L815 5293L2367 4090L209 4364L2160 3594L0 3334L2160 3073L208 2304L2366 2577L814 1374L2759 2155L1759 637L3299 1848L2948 163L3934 1687L4267 0L4602 1687L5586 162L5237 1848L6777 636L5777 2154L7721 1373L6170 2576L8328 2302L6376 3072L8537 3333 Z" svg:height="2.6250in" svg:viewBox="0 0 8537 6667" svg:width="3.3612in" svg:x="1.7216in" svg:y="0.7258in"/>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>

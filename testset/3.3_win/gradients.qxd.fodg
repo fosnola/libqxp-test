@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21590</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">27940</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles>
+    <draw:gradient draw:angle="2010" draw:border="0.0000%" draw:end-color="#ffff00" draw:end-intensity="100.0000%" draw:name="Gradient_0" draw:start-color="#0000ff" draw:start-intensity="100.0000%" draw:style="linear"/>
+    <draw:gradient draw:angle="1800" draw:border="0.0000%" draw:end-color="#ffff00" draw:end-intensity="100.0000%" draw:name="Gradient_1" draw:start-color="#0000ff" draw:start-intensity="100.0000%" draw:style="linear"/>
+    <draw:gradient draw:angle="1350" draw:border="0.0000%" draw:end-color="#ffff00" draw:end-intensity="100.0000%" draw:name="Gradient_2" draw:start-color="#0000ff" draw:start-intensity="100.0000%" draw:style="linear"/>
+    <draw:gradient draw:angle="0" draw:border="0.0000%" draw:cx="50.0000%" draw:cy="50.0000%" draw:end-color="#ff6666" draw:end-intensity="100.0000%" draw:name="Gradient_3" draw:start-color="#ffff66" draw:start-intensity="100.0000%" draw:style="radial"/>
+    <draw:gradient draw:angle="0" draw:border="0.0000%" draw:cx="50.0000%" draw:cy="50.0000%" draw:end-color="#ff6666" draw:end-intensity="100.0000%" draw:name="Gradient_4" draw:start-color="#6666ff" draw:start-intensity="100.0000%" draw:style="radial"/>
+    <draw:gradient draw:angle="1110" draw:border="25.0000%" draw:cx="50.0000%" draw:cy="50.0000%" draw:end-color="#ff6666" draw:end-intensity="100.0000%" draw:name="Gradient_5" draw:start-color="#6666ff" draw:start-intensity="100.0000%" draw:style="radial"/>
+    <draw:gradient draw:angle="0" draw:border="25.0000%" draw:cx="50.0000%" draw:cy="50.0000%" draw:end-color="#ff6666" draw:end-intensity="100.0000%" draw:name="Gradient_6" draw:start-color="#02a0c6" draw:start-intensity="100.0000%" draw:style="radial"/>
+    <draw:gradient draw:angle="1110" draw:border="0.0000%" draw:cx="50.0000%" draw:cy="50.0000%" draw:end-color="#ffff00" draw:end-intensity="100.0000%" draw:name="Gradient_7" draw:start-color="#0000ff" draw:start-intensity="100.0000%" draw:style="square"/>
+    <draw:gradient draw:angle="0" draw:border="0.0000%" draw:cx="50.0000%" draw:cy="50.0000%" draw:end-color="#ffff00" draw:end-intensity="100.0000%" draw:name="Gradient_8" draw:start-color="#0000ff" draw:start-intensity="100.0000%" draw:style="square"/>
+    <draw:gradient draw:angle="900" draw:border="0.0000%" draw:end-color="#ffff00" draw:end-intensity="100.0000%" draw:name="Gradient_9" draw:start-color="#0000ff" draw:start-intensity="100.0000%" draw:style="linear"/>
+  </office:styles>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties fo:page-height="792.0000pt" fo:page-width="612.0000pt" style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_0" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_1" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_2" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_3" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_4" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_4" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_5" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_5" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_6" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_6" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_7" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_7" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_8" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_8" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_9" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_9" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="900" svg:d="M0 0L4339 0L4339 3492L0 3492 Z" svg:height="1.3750in" svg:viewBox="0 0 4339 3492" svg:width="1.7083in" svg:x="6.0972in" svg:y="2.5833in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" draw:z-index="800" svg:d="M0 0L4339 0L4339 3492L0 3492 Z" svg:height="1.3750in" svg:viewBox="0 0 4339 3492" svg:width="1.7083in" svg:x="5.1042in" svg:y="1.0278in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="700" svg:d="M0 0L4339 0L4339 3492L0 3492 Z" svg:height="1.3750in" svg:viewBox="0 0 4339 3492" svg:width="1.7083in" svg:x="3.1111in" svg:y="0.9028in"/>
+        <draw:ellipse draw:layer="layout" draw:style-name="gr_3" draw:z-index="600" svg:height="1.3750in" svg:width="1.7083in" svg:x="3.6875in" svg:y="5.5556in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="500" svg:d="M0 0L4339 0L4339 3492L0 3492 Z" svg:height="1.3750in" svg:viewBox="0 0 4339 3492" svg:width="1.7083in" svg:x="1.2778in" svg:y="5.1667in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_5" draw:z-index="400" svg:d="M0 0L4339 0L4339 3492L0 3492 Z" svg:height="1.3750in" svg:viewBox="0 0 4339 3492" svg:width="1.7083in" svg:x="3.6250in" svg:y="3.6528in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_6" draw:z-index="300" svg:d="M0 0L4339 0L4339 3492L0 3492 Z" svg:height="1.3750in" svg:viewBox="0 0 4339 3492" svg:width="1.7083in" svg:x="1.7222in" svg:y="3.1667in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" draw:z-index="200" svg:d="M0 0L4339 0L4339 3492L0 3492 Z" svg:height="1.3750in" svg:viewBox="0 0 4339 3492" svg:width="1.7083in" svg:x="4.4167in" svg:y="7.5139in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_8" draw:z-index="100" svg:d="M0 0L4339 0L4339 3492L0 3492 Z" svg:height="1.3750in" svg:viewBox="0 0 4339 3492" svg:width="1.7083in" svg:x="1.6111in" svg:y="6.8611in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_9" draw:z-index="0" svg:d="M0 0L4339 0L4339 3492L0 3492 Z" svg:height="1.3750in" svg:viewBox="0 0 4339 3492" svg:width="1.7083in" svg:x="0.9167in" svg:y="0.8611in"/>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>

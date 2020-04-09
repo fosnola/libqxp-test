@@ -1,0 +1,118 @@
+startDocument()
+  startPage(svg:height: 566.9291pt, svg:width: 651.9685pt)
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none, style:wrap: biggest)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 42.0000pt, svg:y: 82.0000pt), (librevenge:path-action: L, svg:x: 613.1180pt, svg:y: 82.0000pt), (librevenge:path-action: L, svg:x: 613.1180pt, svg:y: 425.5117pt), (librevenge:path-action: L, svg:x: 42.0000pt, svg:y: 425.5117pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 1, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 343.5117pt, svg:width: 571.1180pt, svg:x: 42.0000pt, svg:y: 82.0000pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 43.1999pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (qwerty)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (123)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 28.7999pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 24.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Cordia New, style:text-outline: false)
+          insertText (Courier)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 24.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Courier, style:text-outline: false)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 28.7999pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 24.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Times, style:text-outline: false)
+          insertText (Times)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 21.5999pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: bold, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (bold )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: italic, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (italic )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false, style:text-underline-color: font-color, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single)
+          insertText (underline )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: italic, fo:font-variant: normal, fo:font-weight: bold, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false, style:text-underline-color: font-color, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single)
+          insertText (biu )
+          insertSpace
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, fo:text-shadow: 1pt 1pt, style:font-name: Helvetica, style:text-outline: false)
+          insertText (shadow )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false, style:text-underline-color: font-color, style:text-underline-mode: skip-white-space, style:text-underline-style: solid, style:text-underline-type: single)
+          insertText (word underline)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText ( )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: true)
+          insertText (outline )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-line-through-color: font-color, style:text-line-through-mode: continuous, style:text-line-through-style: solid, style:text-line-through-type: single, style:text-line-through-width: 1.0000pt, style:text-outline: false)
+          insertText (strike)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: true)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 21.5999pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, fo:text-transform: capitalize, style:font-name: Helvetica, style:text-outline: false)
+          insertText (allcaps )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: small-caps, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (smallcaps )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false, style:text-position: 33.000183% 100.000000%, style:text-scale: 100.0000%)
+          insertText (sup )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false, style:text-position: -33.000183% 100.000000%, style:text-scale: 100.0000%)
+          insertText (sub )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false, style:text-position: 50.000000% 50.000000%, style:text-scale: 50.0000%)
+          insertText (superior)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 43.1999pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, fo:font-style: italic, fo:font-variant: normal, fo:font-weight: bold, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, fo:text-shadow: 1pt 1pt, fo:text-transform: capitalize, style:font-name: Helvetica, style:text-line-through-color: font-color, style:text-line-through-mode: continuous, style:text-line-through-style: solid, style:text-line-through-type: single, style:text-line-through-width: 1.0000pt, style:text-outline: true, style:text-position: 33.000183% 100.000000%, style:text-scale: 100.0000%, style:text-underline-color: font-color, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single)
+          insertText (all)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 14.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 16.8000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 14.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 16.8000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: center, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 14.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (center)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 16.8000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: end, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 14.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (right)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 16.8000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: justify, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 14.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (justified )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. )
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: justify, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: bold, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (forced)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText ( Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. )
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument

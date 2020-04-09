@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">23000</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">20000</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties fo:page-height="566.9291pt" fo:page-width="651.9685pt" style:footnote-max-height="0.0000in" style:print-orientation="landscape" style:writing-mode="lr-tb">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffff00" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#000000" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffe5e5" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_4" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffb515" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_5" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffb2b2" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_6" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ff3333" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_7" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ff0000" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_8" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ef047f" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_9" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#00ff00" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_10" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#02a0c6" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_11" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="solid" style:wrap="biggest" svg:stroke-color="#000000" svg:stroke-width="1.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_12" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:shadow="hidden" draw:stroke="solid" style:wrap="biggest" svg:stroke-color="#000000" svg:stroke-width="1.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_13" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#0000ff" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="1500" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="6.9156in" svg:y="1.4321in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" draw:z-index="1400" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="6.0734in" svg:y="1.4974in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="1300" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="4.6878in" svg:y="2.4881in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_3" draw:z-index="1200" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="3.8822in" svg:y="2.4140in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="1100" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="3.6541in" svg:y="3.7196in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_5" draw:z-index="1000" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="2.8346in" svg:y="2.3863in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_6" draw:z-index="900" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="1.7628in" svg:y="2.3168in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" draw:z-index="800" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="5.2072in" svg:y="1.4002in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_8" draw:z-index="700" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="4.5190in" svg:y="1.2746in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_9" draw:z-index="600" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="3.7274in" svg:y="1.2275in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_10" draw:z-index="500" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="3.0025in" svg:y="1.2415in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_11" draw:z-index="400" svg:d="M0 0L1574 0L1574 1515L0 1515 Z" svg:height="0.5967in" svg:viewBox="0 0 1574 1515" svg:width="0.6199in" svg:x="1.0121in" svg:y="3.8177in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_12" draw:z-index="300" svg:d="M0 0L1574 0L1574 1515L0 1515 Z" svg:height="0.5967in" svg:viewBox="0 0 1574 1515" svg:width="0.6199in" svg:x="1.4010in" svg:y="3.7622in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_13" draw:z-index="200" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="1.1440in" svg:y="3.5052in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_13" draw:z-index="100" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="2.1579in" svg:y="1.2275in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" draw:z-index="0" svg:d="M0 0L1609 0L1609 1550L0 1550 Z" svg:height="0.6106in" svg:viewBox="0 0 1609 1550" svg:width="0.6337in" svg:x="1.3801in" svg:y="1.1487in"/>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>

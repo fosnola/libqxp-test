@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21590</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">27940</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Arial" svg:font-family="Arial"/>
+    <style:font-face style:name="Times New Roman" svg:font-family="Times New Roman"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties fo:page-height="792.0000pt" fo:page-width="612.0000pt" style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Arial" style:font-name-asian="Arial" style:font-name-complex="Arial" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span1">
+      <style:text-properties fo:color="#000000" fo:font-size="10.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="10.0000pt" style:font-size-complex="10.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="true" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.4000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="left" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S1" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="true" fo:hyphenation-ladder-count="no-limit" fo:line-height="12.0000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="left" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="top" fo:min-width="1.0000in" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#000000" svg:stroke-linecap="butt" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" fo:min-width="1.0000in" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="500" svg:d="M0 0L6314 0L6314 15284L0 15284 Z" svg:height="6.0174in" svg:viewBox="0 0 6314 15284" svg:width="2.4861in" svg:x="5.3646in" svg:y="3.8333in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="433.2517pt" svg:width="178.9961pt" svg:x="5.3646in" svg:y="3.8333in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">tas vitae, pretium vel mauris. Phasellus in porttitor lectus. Pellentesque non eros cursus, varius enim at, sodales mi. Mauris ultrices risus sed aliquet dictum. Praesent gravida tempor dignissim. Proin vehicula libero est, sed gravida magna consectetur a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce urna erat, tempor et malesuada vel, pulvinar vitae risus.Pellentesque vel ligula in tellus pulvinar volutpat eu eu diam. Mauris volutpat volutpat quam sit amet blandit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec id quam maximus, mattis justo at, ullamcorper libero. Integer ac ex ligula. Curabitur eu nulla sem. Vestibulum accumsan sapien nisi, vitae lacinia arcu posuere id. Quisque tempus bibendum felis eu consectetur. Cras id diam ut velit auctor rhoncus ac ac quam.Sed nisl mauris, ullamcorper at purus a, condimentum molestie est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam porttitor semper tellus, non laoreet tortor fringilla sed. Duis et quam non turpis lobortis lobortis vel id velit. Proin vestibulum ipsum sagittis risus ullamcorper posuere. Fusce scelerisque libero et viverra consectetur. Pellentesque sagittis dui neque, non tempor velit pellentesque egestas. Sed aliquam aliquam fringilla. Donec dignissim scelerisque leo.</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="400" svg:d="M457 913C1066 669 1686 448 2388 489S3953 565 4426 93S5176 1107 5749 992S5970 1976 6040 2394S3026 4018 1489 4326S469 3636 113 3162S342 1662 457 913 Z" svg:height="1.7261in" svg:viewBox="0 0 6083 4384" svg:width="2.3951in" svg:x="5.4797in" svg:y="1.8210in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="120.0005pt" svg:width="168.0006pt" svg:x="5.5244in" svg:y="1.8576in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. Curabitur augue erat, lobortis quis eges</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="300" svg:d="M0 0L9648 0L9648 15442L0 15442 Z" svg:height="6.0799in" svg:viewBox="0 0 9648 15442" svg:width="3.7986in" svg:x="1.3959in" svg:y="2.8125in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="437.7527pt" svg:width="273.5010pt" svg:x="1.3959in" svg:y="2.8125in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. Curabitur augue erat, lobortis quis egestas vitae, pretium vel mauris. Phasellus in porttitor lectus. Pellentesque non eros cursus, varius enim at, sodales mi. Mauris ultrices risus sed aliquet dictum. Praesent gravida tempor dignissim. Proin vehicula libero est, sed gravida magna consectetur a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce urna erat, tempor et malesuada vel, pulvinar vitae risus.Pellentesque vel ligula in tellus pulvinar volutpat eu eu diam. Mauris volutpat volutpat quam sit amet blandit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec id quam maximus, mattis justo at, ullamcorper libero. Integer ac ex ligula. Curabitur eu nulla sem. Vestibulum accumsan sapien nisi, vitae lacinia arcu posuere id. Quisque tempus bibendum felis eu consectetur. Cras id diam ut velit auctor rhoncus ac ac quam.Sed nisl mauris, ullamcorper at purus a, condimentum molestie est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam porttitor semper tellus, non laoreet tortor fringilla sed. Duis et quam non turpis lobortis lobortis vel id velit. Proin vestibulum ipsum sagittis risus ullamcorper posuere. Fusce scelerisque libero et viverra consectetur. Pellentesque sagittis dui neque, non tempor velit pellentesque egestas. Sed aliquam aliquam fringilla. Donec dignissim scelerisque leo.</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="200" svg:d="M0 288C702 405 1390 -116 2090 24S4157 710 5423 288" svg:height="0.1755in" svg:viewBox="0 0 5423 445" svg:width="2.1354in" svg:x="3.7952in" svg:y="1.3169in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_3" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="10.0000pt" svg:width="163.7506pt" svg:x="3.7952in" svg:y="1.1780in">
+          <draw:text-box>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span1">Word text 123</text:span>
+            </text:p>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span1"/>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="100" svg:d="M0 0L3748 0L3748 2187L0 2187 Z" svg:height="0.8611in" svg:viewBox="0 0 3748 2187" svg:width="1.4757in" svg:x="2.0000in" svg:y="1.7708in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="0" svg:d="M0 0L3589 0L3589 2478L0 2478 Z" svg:height="0.9757in" svg:viewBox="0 0 3589 2478" svg:width="1.4132in" svg:x="1.3230in" svg:y="0.6979in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="70.2503pt" svg:width="101.7504pt" svg:x="1.3230in" svg:y="0.6979in">
+          <draw:text-box>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span1">Word text 123</text:span>
+            </text:p>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span1"/>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>

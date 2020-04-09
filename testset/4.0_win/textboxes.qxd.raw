@@ -1,0 +1,105 @@
+startDocument()
+  startPage(svg:height: 792.0000pt, svg:width: 612.0000pt)
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 600, svg:d: ((librevenge:path-action: M, svg:x: 121.3190pt, svg:y: 546.9835pt), (librevenge:path-action: C, svg:x: 166.3190pt, svg:x1: 131.3176pt, svg:x2: 155.9128pt, svg:y: 545.9835pt, svg:y1: 544.9837pt, svg:y2: 541.7409pt), (librevenge:path-action: S, svg:x: 196.3190pt, svg:x1: 197.4326pt, svg:x2: 155.9128pt, svg:y: 558.9835pt, svg:y1: 550.8420pt, svg:y2: 541.7409pt), (librevenge:path-action: S, svg:x: 214.3190pt, svg:x1: 224.7577pt, svg:x2: 155.9128pt, svg:y: 574.9835pt, svg:y1: 462.6640pt, svg:y2: 541.7409pt), (librevenge:path-action: S, svg:x: 227.3190pt, svg:x1: 227.3190pt, svg:x2: 155.9128pt, svg:y: 586.9835pt, svg:y1: 586.9835pt, svg:y2: 541.7409pt), (librevenge:path-action: S, svg:x: 262.3190pt, svg:x1: 266.6758pt, svg:x2: 155.9128pt, svg:y: 641.4086pt, svg:y1: 630.0006pt, svg:y2: 541.7409pt), (librevenge:path-action: S, svg:x: 227.3190pt, svg:x1: 235.4519pt, svg:x2: 155.9128pt, svg:y: 652.7471pt, svg:y1: 651.1205pt, svg:y2: 541.7409pt), (librevenge:path-action: S, svg:x: 43.3190pt, svg:x1: 97.6060pt, svg:x2: 155.9128pt, svg:y: 600.9835pt, svg:y1: 646.1206pt, svg:y2: 541.7409pt), (librevenge:path-action: S, svg:x: 121.3190pt, svg:x1: 95.3190pt, svg:x2: 155.9128pt, svg:y: 546.9835pt, svg:y1: 564.9835pt, svg:y2: 541.7409pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 601, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 122.4277pt, svg:width: 217.4247pt, svg:x: 44.3190pt, svg:y: 533.8092pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 500, svg:d: ((librevenge:path-action: M, svg:x: 154.2598pt, svg:y: 295.3881pt), (librevenge:path-action: L, svg:x: 225.2598pt, svg:y: 295.3881pt), (librevenge:path-action: L, svg:x: 225.2598pt, svg:y: 365.3881pt), (librevenge:path-action: L, svg:x: 154.2598pt, svg:y: 365.3881pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: bottom, draw:z-index: 501, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 69.0000pt, svg:width: 70.0000pt, svg:x: 154.7598pt, svg:y: 295.8881pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (bottom)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (bottom)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 400, svg:d: ((librevenge:path-action: M, svg:x: 114.4961pt, svg:y: 402.3881pt), (librevenge:path-action: L, svg:x: 203.8739pt, svg:y: 402.3881pt), (librevenge:path-action: L, svg:x: 203.8739pt, svg:y: 516.3881pt), (librevenge:path-action: L, svg:x: 114.4961pt, svg:y: 516.3881pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: justify, draw:z-index: 401, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 113.0000pt, svg:width: 88.3779pt, svg:x: 114.9961pt, svg:y: 402.8881pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (justified)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (justified)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (justified)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 300, svg:d: ((librevenge:path-action: M, svg:x: 50.4961pt, svg:y: 295.3881pt), (librevenge:path-action: L, svg:x: 111.8739pt, svg:y: 295.3881pt), (librevenge:path-action: L, svg:x: 111.8739pt, svg:y: 365.3881pt), (librevenge:path-action: L, svg:x: 50.4961pt, svg:y: 365.3881pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: middle, draw:z-index: 301, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 69.0000pt, svg:width: 60.3779pt, svg:x: 50.9961pt, svg:y: 295.8881pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (center)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (center)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 200, svg:d: ((librevenge:path-action: M, svg:x: 256.6141pt, svg:y: 44.7503pt), (librevenge:path-action: L, svg:x: 565.4961pt, svg:y: 44.7503pt), (librevenge:path-action: L, svg:x: 565.4961pt, svg:y: 545.7503pt), (librevenge:path-action: L, svg:x: 256.6141pt, svg:y: 545.7503pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 201, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 500.0000pt, svg:width: 307.8820pt, svg:x: 257.1141pt, svg:y: 45.2503pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. Curabitur augue erat, lobortis quis egestas vitae, pretium vel mauris. Phasellus in porttitor lectus. Pellentesque non eros cursus, varius enim at, sodales mi. Mauris ultrices risus sed aliquet dictum. Praesent gravida tempor dignissim. Proin vehicula libero est, sed gravida magna consectetur a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce urna erat, tempor et malesuada vel, pulvinar vitae risus.)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (Pellentesque vel ligula in tellus pulvinar volutpat eu eu diam. Mauris volutpat volutpat quam sit amet blandit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec id quam maximus, mattis justo at, ullamcorper libero. Integer ac ex ligula. Curabitur eu nulla sem. Vestibulum accumsan sapien nisi, vitae lacinia arcu posuere id. Quisque tempus bibendum felis eu consectetur. Cras id diam ut velit auctor rhoncus ac ac quam.)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (Sed nisl mauris, ullamcorper at purus a, condimentum molestie est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam porttitor semper tellus, non laoreet tortor fringilla sed. Duis et quam non turpis lobortis lobortis vel id velit. Proin vestibulum ipsum sagittis risus ullamcorper posuere. Fusce scelerisque libero et viverra consectetur. Pellentesque sagittis dui neque, non tempor velit pellentesque egestas. Sed aliquam aliquam fringilla. Donec dignissim scelerisque leo.)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #b3e2ee, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 100, svg:d: ((librevenge:path-action: M, svg:x: 72.9285pt, svg:y: 175.2276pt), (librevenge:path-action: L, svg:x: 180.2631pt, svg:y: 100.0711pt), (librevenge:path-action: L, svg:x: 241.9123pt, svg:y: 188.1153pt), (librevenge:path-action: L, svg:x: 134.5777pt, svg:y: 263.2718pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 101, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, librevenge:rotate: -35.0000in, svg:height: 106.4821pt, svg:width: 130.0313pt, svg:x: 92.4047pt, svg:y: 128.4304pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none, style:wrap: biggest)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 72.9961pt, svg:y: 45.8881pt), (librevenge:path-action: L, svg:x: 241.9961pt, svg:y: 45.8881pt), (librevenge:path-action: L, svg:x: 241.9961pt, svg:y: 78.8881pt), (librevenge:path-action: L, svg:x: 72.9961pt, svg:y: 78.8881pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 1, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 33.0000pt, svg:width: 169.0000pt, svg:x: 72.9961pt, svg:y: 45.8881pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument

@@ -1,0 +1,18 @@
+startDocument()
+  startPage(svg:height: 566.9291pt, svg:width: 651.9685pt)
+    setStyle(draw:fill: solid, draw:fill-color: #02a0c6, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #00ff00, svg:stroke-width: 4.0000pt)
+    drawEllipse (draw:z-index: 600, svg:cx: 479.2519pt, svg:cy: 203.0000pt, svg:rx: 108.7481pt, svg:ry: 32.0000pt)
+    setStyle(draw:fill: solid, draw:fill-color: #02a0c6, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #00ff00, svg:stroke-width: 4.0000pt)
+    drawEllipse (draw:z-index: 500, librevenge:rotate: 211.0000in, svg:cx: 554.5887pt, svg:cy: 379.6023pt, svg:rx: 42.5000pt, svg:ry: 80.4843pt)
+    setStyle(draw:fill: solid, draw:fill-color: #02a0c6, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #00ff00, svg:stroke-width: 4.0000pt)
+    drawEllipse (draw:z-index: 400, librevenge:rotate: 45.0000in, svg:cx: 423.5000pt, svg:cy: 331.6023pt, svg:rx: 42.5000pt, svg:ry: 80.4843pt)
+    setStyle(draw:fill: solid, draw:fill-color: #02a0c6, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #00ff00, svg:stroke-width: 4.0000pt)
+    drawEllipse (draw:z-index: 300, librevenge:rotate: -45.0000in, svg:cx: 280.5000pt, svg:cy: 329.6023pt, svg:rx: 42.5000pt, svg:ry: 80.4843pt)
+    setStyle(draw:fill: solid, draw:fill-color: #02a0c6, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #00ff00, svg:stroke-width: 4.0000pt)
+    drawEllipse (draw:z-index: 200, svg:cx: 279.5000pt, svg:cy: 150.5157pt, svg:rx: 42.5000pt, svg:ry: 80.4843pt)
+    setStyle(draw:fill: solid, draw:fill-color: #35b3d1, draw:stroke: solid, style:wrap: biggest, svg:stroke-color: #ff9999, svg:stroke-width: 8.0000pt)
+    drawEllipse (draw:z-index: 100, svg:cx: 128.5000pt, svg:cy: 302.5038pt, svg:rx: 61.5000pt, svg:ry: 64.0000pt)
+    setStyle(draw:fill: solid, draw:fill-color: #02a0c6, draw:stroke: none, style:wrap: biggest)
+    drawEllipse (draw:z-index: 0, svg:cx: 124.5000pt, svg:cy: 137.0000pt, svg:rx: 65.5000pt, svg:ry: 68.0000pt)
+  endPage
+endDocument

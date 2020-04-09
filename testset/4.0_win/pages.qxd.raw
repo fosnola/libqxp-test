@@ -1,0 +1,35 @@
+startDocument()
+  startPage(svg:height: 792.0000pt, svg:width: 612.0000pt)
+    setStyle(draw:fill: none, draw:stroke: none)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 145.0000pt, svg:y: 61.0000pt), (librevenge:path-action: L, svg:x: 282.0000pt, svg:y: 61.0000pt), (librevenge:path-action: L, svg:x: 282.0000pt, svg:y: 169.0000pt), (librevenge:path-action: L, svg:x: 145.0000pt, svg:y: 169.0000pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 1, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 108.0000pt, svg:width: 137.0000pt, svg:x: 145.0000pt, svg:y: 61.0000pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial-PL, style:text-outline: false)
+          insertText (p1)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+  startPage(svg:height: 792.0000pt, svg:width: 612.0000pt)
+    setStyle(draw:fill: none, draw:stroke: none)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 110.0000pt, svg:y: 73.7007pt), (librevenge:path-action: L, svg:x: 274.1259pt, svg:y: 73.7007pt), (librevenge:path-action: L, svg:x: 274.1259pt, svg:y: 196.0000pt), (librevenge:path-action: L, svg:x: 110.0000pt, svg:y: 196.0000pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 1, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 122.2993pt, svg:width: 164.1259pt, svg:x: 110.0000pt, svg:y: 73.7007pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial-PL, style:text-outline: false)
+          insertText (p2)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+  startPage(svg:height: 792.0000pt, svg:width: 612.0000pt)
+    setStyle(draw:fill: none, draw:stroke: none)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 136.0629pt, svg:y: 66.0000pt), (librevenge:path-action: L, svg:x: 296.0000pt, svg:y: 66.0000pt), (librevenge:path-action: L, svg:x: 296.0000pt, svg:y: 198.0000pt), (librevenge:path-action: L, svg:x: 136.0629pt, svg:y: 198.0000pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 1, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 132.0000pt, svg:width: 159.9371pt, svg:x: 136.0629pt, svg:y: 66.0000pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial-PL, style:text-outline: false)
+          insertText (p3)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument

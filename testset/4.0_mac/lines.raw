@@ -1,0 +1,16 @@
+startDocument()
+  startPage(svg:height: 792.0000pt, svg:width: 612.0000pt)
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 500, svg:d: ((librevenge:path-action: M, svg:x: 230.9995pt, svg:y: 216.4312pt), (librevenge:path-action: L, svg:x: 372.9995pt, svg:y: 264.9982pt)))
+    setStyle(draw:stroke: solid, svg:stroke-color: #02a0c6, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 4.0000pt)
+    drawPath (draw:z-index: 400, svg:d: ((librevenge:path-action: M, svg:x: 270.0018pt, svg:y: 157.0006pt), (librevenge:path-action: L, svg:x: 139.0018pt, svg:y: 247.0006pt)))
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 300, svg:d: ((librevenge:path-action: M, svg:x: 121.0000pt, svg:y: 235.0011pt), (librevenge:path-action: L, svg:x: 241.0000pt, svg:y: 150.0011pt)))
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 200, svg:d: ((librevenge:path-action: M, svg:x: 321.0000pt, svg:y: 72.0000pt), (librevenge:path-action: L, svg:x: 321.0000pt, svg:y: 189.0000pt)))
+    setStyle(draw:stroke: solid, svg:stroke-color: #6666ff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 100, svg:d: ((librevenge:path-action: M, svg:x: 97.3779pt, svg:y: 106.0000pt), (librevenge:path-action: L, svg:x: 288.0000pt, svg:y: 106.0000pt)))
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 151.0000pt, svg:y: 84.0000pt), (librevenge:path-action: L, svg:x: 278.0000pt, svg:y: 84.0000pt)))
+  endPage
+endDocument

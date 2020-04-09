@@ -1,0 +1,35 @@
+startDocument()
+  startPage(svg:height: 566.9291pt, svg:width: 651.9685pt)
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none, style:wrap: biggest)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 192.0000pt, svg:y: 121.0000pt), (librevenge:path-action: L, svg:x: 385.0000pt, svg:y: 121.0000pt), (librevenge:path-action: L, svg:x: 385.0000pt, svg:y: 200.4251pt), (librevenge:path-action: L, svg:x: 192.0000pt, svg:y: 200.4251pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 1, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 79.4251pt, svg:width: 193.0000pt, svg:x: 192.0000pt, svg:y: 121.0000pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (p1)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+  startPage(svg:height: 566.9291pt, svg:width: 651.9685pt)
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none, style:wrap: biggest)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 192.7558pt, svg:y: 104.0000pt), (librevenge:path-action: L, svg:x: 370.5038pt, svg:y: 104.0000pt), (librevenge:path-action: L, svg:x: 370.5038pt, svg:y: 219.0000pt), (librevenge:path-action: L, svg:x: 192.7558pt, svg:y: 219.0000pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 1, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 115.0000pt, svg:width: 177.7480pt, svg:x: 192.7558pt, svg:y: 104.0000pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (p2)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+  startPage(svg:height: 566.9291pt, svg:width: 651.9685pt)
+    setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:stroke: none, style:wrap: biggest)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 180.0000pt, svg:y: 79.3700pt), (librevenge:path-action: L, svg:x: 320.0000pt, svg:y: 79.3700pt), (librevenge:path-action: L, svg:x: 320.0000pt, svg:y: 173.0000pt), (librevenge:path-action: L, svg:x: 180.0000pt, svg:y: 173.0000pt), (librevenge:path-action: Z)))
+    startTextObject (draw:textarea-vertical-align: top, draw:z-index: 1, fo:padding-bottom: 0.0000pt, fo:padding-left: 3.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 93.6300pt, svg:width: 140.0000pt, svg:x: 180.0000pt, svg:y: 79.3700pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Helvetica, style:text-outline: false)
+          insertText (p3)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument

@@ -1,0 +1,251 @@
+startDocument()
+  startPage(svg:height: 792.0000pt, svg:width: 612.0000pt)
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0000pt)
+    drawPath (draw:z-index: 2600, svg:d: ((librevenge:path-action: M, svg:x: 67.0026pt, svg:y: 516.2521pt), (librevenge:path-action: C, svg:x: 92.5027pt, svg:x1: 76.3839pt, svg:x2: 85.0703pt, svg:y: 522.2521pt, svg:y1: 516.2521pt, svg:y2: 521.4266pt), (librevenge:path-action: S, svg:x: 130.0028pt, svg:x1: 115.4121pt, svg:x2: 85.0703pt, svg:y: 517.7521pt, svg:y1: 511.2720pt, svg:y2: 521.4266pt), (librevenge:path-action: S, svg:x: 133.7528pt, svg:x1: 132.5028pt, svg:x2: 85.0703pt, svg:y: 519.2521pt, svg:y1: 518.7521pt, svg:y2: 521.4266pt), (librevenge:path-action: S, svg:x: 148.0029pt, svg:x1: 143.2312pt, svg:x2: 85.0703pt, svg:y: 517.0021pt, svg:y1: 517.5986pt, svg:y2: 521.4266pt), (librevenge:path-action: S, svg:x: 151.7529pt, svg:x1: 150.5029pt, svg:x2: 85.0703pt, svg:y: 517.0021pt, svg:y1: 517.0021pt, svg:y2: 521.4266pt)))
+    startTextObject (draw:z-index: 2601, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 96.7503pt, svg:x: 67.0026pt, svg:y: 503.8722pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0000pt)
+    drawPath (draw:z-index: 2500, svg:d: ((librevenge:path-action: M, svg:x: 66.2526pt, svg:y: 421.0017pt), (librevenge:path-action: C, svg:x: 117.2528pt, svg:x1: 85.5253pt, svg:x2: 95.2313pt, svg:y: 406.7517pt, svg:y1: 413.7745pt, svg:y2: 407.5587pt), (librevenge:path-action: S, svg:x: 133.0028pt, svg:x1: 127.9141pt, svg:x2: 95.2313pt, svg:y: 403.7517pt, svg:y1: 405.3849pt, svg:y2: 407.5587pt), (librevenge:path-action: S, svg:x: 158.5000pt, svg:x1: 149.8513pt, svg:x2: 95.2313pt, svg:y: 392.5000pt, svg:y1: 395.9660pt, svg:y2: 407.5587pt)))
+    startTextObject (draw:z-index: 2501, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 104.2474pt, svg:x: 66.2526pt, svg:y: 380.5000pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0000pt)
+    drawPath (draw:z-index: 2400, svg:d: ((librevenge:path-action: M, svg:x: 76.7526pt, svg:y: 151.0007pt), (librevenge:path-action: L, svg:x: 239.5000pt, svg:y: 151.0007pt)))
+    startTextObject (draw:z-index: 2401, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 174.7474pt, svg:x: 76.7526pt, svg:y: 139.0007pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (yyyyyyyyyyyyyy)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0000pt)
+    drawPath (draw:z-index: 2300, svg:d: ((librevenge:path-action: M, svg:x: 81.2526pt, svg:y: 125.5006pt), (librevenge:path-action: L, svg:x: 228.0000pt, svg:y: 125.5006pt)))
+    startTextObject (draw:z-index: 2301, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 158.7474pt, svg:x: 81.2526pt, svg:y: 113.5006pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (weeeerrrtttt )
+          insertSpace
+          insertSpace
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0000pt)
+    drawPath (draw:z-index: 2200, svg:d: ((librevenge:path-action: M, svg:x: 83.5027pt, svg:y: 92.5005pt), (librevenge:path-action: L, svg:x: 206.2530pt, svg:y: 92.5005pt)))
+    startTextObject (draw:z-index: 2201, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 134.7504pt, svg:x: 83.5027pt, svg:y: 80.5005pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qqqqqqqqwwwwwwww)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0000pt)
+    drawPath (draw:z-index: 2100, svg:d: ((librevenge:path-action: M, svg:x: 415.5168pt, svg:y: 192.0018pt), (librevenge:path-action: L, svg:x: 512.2672pt, svg:y: 192.0018pt)))
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 2000, svg:d: ((librevenge:path-action: M, svg:x: 66.2484pt, svg:y: 315.2489pt), (librevenge:path-action: L, svg:x: 172.0000pt, svg:y: 315.2489pt)))
+    startTextObject (draw:z-index: 2001, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 117.7516pt, svg:x: 66.2484pt, svg:y: 306.2489pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1900, svg:d: ((librevenge:path-action: M, svg:x: 88.7485pt, svg:y: 282.9988pt), (librevenge:path-action: L, svg:x: 219.2490pt, svg:y: 282.9988pt)))
+    startTextObject (draw:z-index: 1901, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 142.5005pt, svg:x: 88.7485pt, svg:y: 270.9988pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #0000ff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1800, svg:d: ((librevenge:path-action: M, svg:x: 85.7486pt, svg:y: 252.9988pt), (librevenge:path-action: L, svg:x: 211.7491pt, svg:y: 252.9988pt)))
+    startTextObject (draw:z-index: 1801, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 138.0005pt, svg:x: 85.7486pt, svg:y: 237.9988pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1700, svg:d: ((librevenge:path-action: M, svg:x: 171.2488pt, svg:y: 688.7503pt), (librevenge:path-action: L, svg:x: 417.2497pt, svg:y: 688.7503pt)))
+    startTextObject (draw:z-index: 1701, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 171.2488pt, svg:y: 691.7503pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1600, svg:d: ((librevenge:path-action: M, svg:x: 193.7489pt, svg:y: 656.5003pt), (librevenge:path-action: L, svg:x: 439.7499pt, svg:y: 656.5003pt)))
+    startTextObject (draw:z-index: 1601, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 193.7489pt, svg:y: 656.5003pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #ffff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1500, svg:d: ((librevenge:path-action: M, svg:x: 190.7490pt, svg:y: 626.5002pt), (librevenge:path-action: L, svg:x: 436.7499pt, svg:y: 626.5002pt)))
+    startTextObject (draw:z-index: 1501, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 190.7490pt, svg:y: 623.5002pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1400, svg:d: ((librevenge:path-action: M, svg:x: 159.9988pt, svg:y: 564.9999pt), (librevenge:path-action: L, svg:x: 405.9998pt, svg:y: 564.9999pt)))
+    startTextObject (draw:z-index: 1401, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 159.9988pt, svg:y: 561.9999pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1300, svg:d: ((librevenge:path-action: M, svg:x: 182.4990pt, svg:y: 532.7499pt), (librevenge:path-action: L, svg:x: 428.4999pt, svg:y: 532.7499pt)))
+    startTextObject (draw:z-index: 1301, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 182.4990pt, svg:y: 526.7499pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #ffff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1200, svg:d: ((librevenge:path-action: M, svg:x: 179.4990pt, svg:y: 502.7498pt), (librevenge:path-action: L, svg:x: 425.5000pt, svg:y: 502.7498pt)))
+    startTextObject (draw:z-index: 1201, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 179.4990pt, svg:y: 493.7498pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1100, svg:d: ((librevenge:path-action: M, svg:x: 240.2496pt, svg:y: 448.7501pt), (librevenge:path-action: L, svg:x: 486.2506pt, svg:y: 448.7501pt)))
+    startTextObject (draw:z-index: 1101, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 240.2496pt, svg:y: 439.7501pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 1000, svg:d: ((librevenge:path-action: M, svg:x: 262.7498pt, svg:y: 416.5000pt), (librevenge:path-action: L, svg:x: 508.7507pt, svg:y: 416.5000pt)))
+    startTextObject (draw:z-index: 1001, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 262.7498pt, svg:y: 404.5000pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #0000ff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 900, svg:d: ((librevenge:path-action: M, svg:x: 259.7499pt, svg:y: 386.5000pt), (librevenge:path-action: L, svg:x: 505.7508pt, svg:y: 386.5000pt)))
+    startTextObject (draw:z-index: 901, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 259.7499pt, svg:y: 371.5000pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 800, svg:d: ((librevenge:path-action: M, svg:x: 215.4996pt, svg:y: 335.2514pt), (librevenge:path-action: L, svg:x: 461.5006pt, svg:y: 335.2514pt)))
+    startTextObject (draw:z-index: 801, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 18.0000pt, svg:width: 264.0009pt, svg:x: 215.4996pt, svg:y: 320.2514pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 21.5999pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 10.0000pt)
+    drawPath (draw:z-index: 700, svg:d: ((librevenge:path-action: M, svg:x: 296.5000pt, svg:y: 219.0010pt), (librevenge:path-action: L, svg:x: 542.5009pt, svg:y: 219.0010pt)))
+    startTextObject (draw:z-index: 701, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 296.5000pt, svg:y: 207.0010pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #00ff00, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 600, svg:d: ((librevenge:path-action: M, svg:x: 260.4999pt, svg:y: 285.0013pt), (librevenge:path-action: L, svg:x: 506.5008pt, svg:y: 285.0013pt)))
+    startTextObject (draw:z-index: 601, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 18.0000pt, svg:width: 264.0009pt, svg:x: 260.4999pt, svg:y: 267.0013pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 21.5999pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #0000ff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 6.0000pt)
+    drawPath (draw:z-index: 500, svg:d: ((librevenge:path-action: M, svg:x: 257.4999pt, svg:y: 255.0013pt), (librevenge:path-action: L, svg:x: 503.5009pt, svg:y: 255.0013pt)))
+    startTextObject (draw:z-index: 501, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 18.0000pt, svg:width: 264.0009pt, svg:x: 257.4999pt, svg:y: 234.0013pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 21.5999pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 18.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #0000ff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 400, svg:d: ((librevenge:path-action: M, svg:x: 296.2619pt, svg:y: 156.7510pt), (librevenge:path-action: L, svg:x: 542.2628pt, svg:y: 156.7510pt)))
+    startTextObject (draw:z-index: 401, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 296.2619pt, svg:y: 144.2510pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #0000ff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 300, svg:d: ((librevenge:path-action: M, svg:x: 263.2628pt, svg:y: 123.7509pt), (librevenge:path-action: L, svg:x: 509.2637pt, svg:y: 123.7509pt)))
+    startTextObject (draw:z-index: 301, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 263.2628pt, svg:y: 123.2509pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #0000ff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 200, svg:d: ((librevenge:path-action: M, svg:x: 255.0162pt, svg:y: 100.5007pt), (librevenge:path-action: L, svg:x: 501.0171pt, svg:y: 100.5007pt)))
+    startTextObject (draw:z-index: 201, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 255.0162pt, svg:y: 94.0007pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #0000ff, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 1.0000pt)
+    drawPath (draw:z-index: 100, svg:d: ((librevenge:path-action: M, svg:x: 257.2662pt, svg:y: 60.7509pt), (librevenge:path-action: L, svg:x: 503.2672pt, svg:y: 60.7509pt)))
+    startTextObject (draw:z-index: 101, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, svg:height: 12.0000pt, svg:width: 258.0009pt, svg:x: 257.2662pt, svg:y: 48.2509pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty123)
+        closeSpan
+      closeParagraph
+    endTextObject
+    setStyle(draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-linecap: butt, svg:stroke-linejoin: miter, svg:stroke-width: 0.0000pt)
+    drawPath (draw:z-index: 0, svg:d: ((librevenge:path-action: M, svg:x: 49.5144pt, svg:y: 464.2539pt), (librevenge:path-action: L, svg:x: 175.5149pt, svg:y: 418.5037pt)))
+    startTextObject (draw:z-index: 1, fo:padding-bottom: 0.0000pt, fo:padding-left: 0.0000pt, fo:padding-right: 0.0000pt, fo:padding-top: 0.0000pt, librevenge:rotate: -19.9557in, svg:height: 12.0000pt, svg:width: 146.0492pt, svg:x: 45.4901pt, svg:y: 429.3788pt)
+      openParagraph (fo:hyphenate: true, fo:hyphenation-ladder-count: no-limit, fo:line-height: 14.4000pt, fo:margin-bottom: 0.0000pt, fo:margin-left: 0.0000pt, fo:margin-right: 0.0000pt, fo:margin-top: 0.0000pt, fo:text-align: left, fo:text-align-last: start, fo:text-indent: 0.0000pt, style:justify-single-word: true)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, fo:font-style: normal, fo:font-variant: normal, fo:font-weight: normal, fo:hyphenation-push-char-count: 2, fo:hyphenation-remain-char-count: 3, style:font-name: Arial, style:text-outline: false)
+          insertText (qwerty)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument

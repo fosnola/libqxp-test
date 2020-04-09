@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21590</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">27940</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Arial" svg:font-family="Arial"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties fo:page-height="792.0000pt" fo:page-width="612.0000pt" style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Arial" style:font-name-asian="Arial" style:font-name-complex="Arial" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span1">
+      <style:text-properties fo:color="#000000" fo:font-size="18.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Arial" style:font-name-asian="Arial" style:font-name-complex="Arial" style:font-size-asian="18.0000pt" style:font-size-complex="18.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="true" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.4000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="left" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S1" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="true" fo:hyphenation-ladder-count="no-limit" fo:line-height="21.5999pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="left" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#000000" svg:stroke-linecap="butt" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" fo:min-width="1.0000in" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#00ff00" svg:stroke-linecap="butt" svg:stroke-width="6.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="standard">
+      <style:graphic-properties draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#0000ff" svg:stroke-linecap="butt" svg:stroke-width="6.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_4" style:parent-style-name="standard">
+      <style:graphic-properties draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#ffff00" svg:stroke-linecap="butt" svg:stroke-width="6.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_5" style:parent-style-name="standard">
+      <style:graphic-properties draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#00ff00" svg:stroke-linecap="butt" svg:stroke-width="10.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_6" style:parent-style-name="standard">
+      <style:graphic-properties draw:shadow="hidden" draw:stroke="solid" draw:stroke-linejoin="miter" svg:stroke-color="#0000ff" svg:stroke-linecap="butt" svg:stroke-width="1.0000pt"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="2600" svg:d="M0 15C330 15 637 198 899 227S1707 -159 2222 68S2310 104 2354 121S2689 63 2857 42S2945 42 2989 42" svg:height="0.0902in" svg:viewBox="0 0 2989 229" svg:width="1.1771in" svg:x="0.9306in" svg:y="7.1639in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="96.7503pt" svg:x="0.9306in" svg:y="6.9982in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="2500" svg:d="M0 1005C679 750 1022 531 1799 502S2175 454 2354 396S2949 122 3254 0" svg:height="0.3959in" svg:viewBox="0 0 3254 1005" svg:width="1.2812in" svg:x="0.9202in" svg:y="5.4514in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="104.2474pt" svg:x="0.9202in" svg:y="5.2847in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="2400" svg:d="M0 0L5741 0" svg:height="0.0000in" svg:viewBox="0 0 5741 0" svg:width="2.2604in" svg:x="1.0660in" svg:y="2.0972in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="174.7474pt" svg:x="1.0660in" svg:y="1.9306in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">yyyyyyyyyyyyyy</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="2300" svg:d="M0 0L5176 0" svg:height="0.0000in" svg:viewBox="0 0 5176 0" svg:width="2.0382in" svg:x="1.1285in" svg:y="1.7431in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="158.7474pt" svg:x="1.1285in" svg:y="1.5764in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">wwwwweeeerrrtttt <text:s/><text:s/></text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="2200" svg:d="M0 0L4330 0" svg:height="0.0000in" svg:viewBox="0 0 4330 0" svg:width="1.7049in" svg:x="1.1598in" svg:y="1.2847in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="134.7504pt" svg:x="1.1598in" svg:y="1.1181in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qqqqqqqqwwww</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="2100" svg:d="M0 0L3413 0" svg:height="0.0000in" svg:viewBox="0 0 3413 0" svg:width="1.3438in" svg:x="5.7711in" svg:y="2.6667in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="2000" svg:d="M0 0L3730 0" svg:height="0.0000in" svg:viewBox="0 0 3730 0" svg:width="1.4688in" svg:x="0.9201in" svg:y="4.3785in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="117.7516pt" svg:x="0.9201in" svg:y="4.2535in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="1900" svg:d="M0 0L4603 0" svg:height="0.0000in" svg:viewBox="0 0 4603 0" svg:width="1.8125in" svg:x="1.2326in" svg:y="3.9305in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="142.5005pt" svg:x="1.2326in" svg:y="3.7639in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_3" draw:z-index="1800" svg:d="M0 0L4445 0" svg:height="0.0000in" svg:viewBox="0 0 4445 0" svg:width="1.7500in" svg:x="1.1910in" svg:y="3.5139in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="138.0005pt" svg:x="1.1910in" svg:y="3.3055in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="1700" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="2.3785in" svg:y="9.5660in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="2.3785in" svg:y="9.6076in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="1600" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="2.6910in" svg:y="9.1181in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="2.6910in" svg:y="9.1181in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="1500" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="2.6493in" svg:y="8.7014in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="2.6493in" svg:y="8.6597in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="1400" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="2.2222in" svg:y="7.8472in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="2.2222in" svg:y="7.8056in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="1300" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="2.5347in" svg:y="7.3993in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="2.5347in" svg:y="7.3160in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" draw:z-index="1200" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="2.4930in" svg:y="6.9826in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="2.4930in" svg:y="6.8576in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="1100" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="3.3368in" svg:y="6.2326in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="3.3368in" svg:y="6.1076in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="1000" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="3.6493in" svg:y="5.7847in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="3.6493in" svg:y="5.6181in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_3" draw:z-index="900" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="3.6076in" svg:y="5.3681in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="3.6076in" svg:y="5.1597in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="800" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="2.9931in" svg:y="4.6563in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="18.0000pt" svg:width="264.0009pt" svg:x="2.9931in" svg:y="4.4479in">
+          <draw:text-box>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span0">qwerty</text:span>
+              <text:span text:style-name="Span1">123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_5" draw:z-index="700" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="4.1181in" svg:y="3.0417in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="4.1181in" svg:y="2.8750in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" draw:z-index="600" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="3.6181in" svg:y="3.9584in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="18.0000pt" svg:width="264.0009pt" svg:x="3.6181in" svg:y="3.7084in">
+          <draw:text-box>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span0">qwerty</text:span>
+              <text:span text:style-name="Span1">123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_3" draw:z-index="500" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="3.5764in" svg:y="3.5417in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="18.0000pt" svg:width="264.0009pt" svg:x="3.5764in" svg:y="3.2500in">
+          <draw:text-box>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span0">qwerty</text:span>
+              <text:span text:style-name="Span1">123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_6" draw:z-index="400" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="4.1147in" svg:y="2.1771in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="4.1147in" svg:y="2.0035in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_6" draw:z-index="300" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="3.6564in" svg:y="1.7188in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="3.6564in" svg:y="1.7118in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_6" draw:z-index="200" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="3.5419in" svg:y="1.3958in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="3.5419in" svg:y="1.3056in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_6" draw:z-index="100" svg:d="M0 0L8678 0" svg:height="0.0000in" svg:viewBox="0 0 8678 0" svg:width="3.4167in" svg:x="3.5731in" svg:y="0.8438in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="258.0009pt" svg:x="3.5731in" svg:y="0.6702in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty123</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="0" svg:d="M0 1613L4445 0" svg:height="0.6354in" svg:viewBox="0 0 4445 1613" svg:width="1.7500in" svg:x="0.6877in" svg:y="5.8126in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:transform="rotate (0.3483) translate(0.6643in, 6.3147in)" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="12.0000pt" svg:width="146.0492pt">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">qwerty</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">23000</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">20000</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Helvetica" svg:font-family="Helvetica"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties fo:page-height="566.9291pt" fo:page-width="651.9685pt" style:footnote-max-height="0.0000in" style:print-orientation="landscape" style:writing-mode="lr-tb">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties fo:color="#000000" fo:font-size="12.0000pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:hyphenation-push-char-count="2" fo:hyphenation-remain-char-count="3" style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" style:font-style-asian="normal" style:font-style-complex="normal" style:font-weight-asian="normal" style:font-weight-complex="normal" style:text-outline="false"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:hyphenate="true" fo:hyphenation-ladder-count="no-limit" fo:line-height="14.4000pt" fo:margin-bottom="0.0000in" fo:margin-left="0.0000pt" fo:margin-right="0.0000pt" fo:margin-top="0.0000pt" fo:text-align="left" fo:text-align-last="start" fo:text-indent="0.0000pt" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:shadow="hidden" draw:stroke="none" style:wrap="biggest"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" draw:textarea-vertical-align="top" fo:min-width="1.0000in" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="300" svg:d="M0 0L10957 0L10957 9964L0 9964 Z" svg:height="3.9230in" svg:viewBox="0 0 10957 9964" svg:width="4.3140in" svg:x="4.1528in" svg:y="3.4646in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="282.4567pt" svg:width="310.6061pt" svg:x="4.1528in" svg:y="3.4646in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">augue erat, lobortis quis egestas vitae, pretium vel mauris. Phasellus in porttitor lectus. Pellentesque non eros cursus, varius enim at, sodales mi. Mauris ultrices risus sed aliquet dictum. Praesent gravida tempor dignissim. Proin vehicula libero est, sed gravida magna consectetur a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce urna erat, tempor et malesuada vel, pulvinar vitae risus.Pellentesque vel ligula in tellus pulvinar volutpat eu eu diam. Mauris volutpat volutpat quam sit amet blandit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec id quam maximus, mattis justo at, ullamcorper libero. Integer ac ex ligula. Curabitur eu nulla sem. Vestibulum accumsan sapien nisi, vitae lacinia arcu posuere id. Quisque tempus bibendum felis eu consectetur. Cras id diam ut velit auctor rhoncus ac ac quam.Sed nisl mauris, ullamcorper at purus a, condimentum molestie est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam porttitor semper tellus, non laoreet tortor fringilla sed. Duis et quam non turpis lobortis lobortis vel id velit. Proin vestibulum ipsum sagittis risus ullamcorper posuere. Fusce scelerisque libero et viverra consectetur. Pellentesque sagittis dui neque, non tempor velit pellentesque egestas. Sed aliquam aliquam fringilla. Donec dignissim scelerisque leo.</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="200" svg:d="M0 0L4155 0L4155 3404L0 3404 Z" svg:height="1.3403in" svg:viewBox="0 0 4155 3404" svg:width="1.6359in" svg:x="4.1508in" svg:y="1.8472in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="96.5038pt" svg:width="117.7873pt" svg:x="4.1508in" svg:y="1.8472in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. Curabitur </text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="100" svg:d="M0 0L2608 0L2608 1832L0 1832 Z" svg:height="0.7216in" svg:viewBox="0 0 2608 1832" svg:width="1.0270in" svg:x="4.9063in" svg:y="0.7645in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" draw:z-index="0" svg:d="M0 0L7796 0L7796 6385L0 6385 Z" svg:height="2.5139in" svg:viewBox="0 0 7796 6385" svg:width="3.0694in" svg:x="0.7379in" svg:y="0.6111in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" draw:textarea-vertical-align="top" fo:padding-bottom="0.0000pt" fo:padding-left="3.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:height="181.0000pt" svg:width="221.0000pt" svg:x="0.7379in" svg:y="0.6111in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra posuere elit non ornare. Curabitur augue erat, lobortis quis egestas vitae, pretium vel mauris. Phasellus in porttitor lectus. Pellentesque non eros cursus, varius enim at, sodales mi. Mauris ultrices risus sed aliquet dictum. Praesent gravida tempor dignissim. Proin vehicula libero est, sed gravida magna consectetur a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce urna erat, tempor et malesuada vel, pulvinar vitae risus.Pellentesque vel ligula in tellus pulvinar volutpat eu eu diam. Mauris volutpat volutpat quam sit amet blandit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec id quam maximus, mattis justo at, ullamcorper libero. Integer ac ex ligula. Curabitur eu nulla sem. Vestibulum accumsan sapien nisi, vitae lacinia arcu posuere id. Quisque tempus bibendum felis eu consectetur. Cras id diam ut velit auctor rhoncus ac ac quam.Sed nisl mauris, ullamcorper at purus a, condimentum molestie est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam porttitor semper tellus, non laoreet tortor fringilla sed. Duis et quam non turpis lobortis lobortis vel id velit. Proin vestibulum ipsum sagittis risus ullamcorper posuere. Fusce scelerisque libero et viverra consectetur. Pellentesque sagittis dui neque, non tempor velit pellentesque egestas. Sed aliquam aliquam fringilla. Donec dignissim scelerisque leo.</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>
